@@ -29,3 +29,18 @@ MENU
 ## Author
 
 Fernando Vasquez
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/fevasquez444/secure-password-generator-python.git
+cd secure-password-generator-python
+```
+
+Run the program:
+
+```bash
+python3 secure_password_generator.py
+```
